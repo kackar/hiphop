@@ -17,3 +17,5 @@ node-webkit/
 
 website/releases/
 *.swp
+
+*.bak
